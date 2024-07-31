@@ -45,5 +45,6 @@ Here is the final [transaction](https://explorer.solana.com/tx/3qtK6uMAhq8FEuBXf
         yarn spl_init
 
 4. After creating mint address update spl_mint to create ATA account and add tokens to ATA account, use <code>yarn {name in package.json scripts}</code> to run them    
-        cd ts
-        yarn spl_mint
+
+       cd ts
+       yarn spl_mint
